@@ -1,0 +1,43 @@
+Application name:  automation.py
+path -  C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9
+exist -  True
+
+ Current folder is -  C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9
+
+ Sub folder of C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  assignment7
+
+ Sub folder of C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  assignment8
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  assignment9_1.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  assignment9_2.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  assignment9_3.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  assignment9_4.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  assignment9_5.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  Demo.txt
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9 is -  Test.txt
+
+ Current folder is -  C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment7
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment7 is -  assignment7_1.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment7 is -  assignment7_2.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment7 is -  assignment7_3.py
+
+ Current folder is -  C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment8
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment8 is -  assignment8_1.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment8 is -  assignment8_2.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment8 is -  assignment8_3.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment8 is -  assignment8_4.py
+
+ File inside C:\Users\tanvi.rajwal\python_practice\assignment10\assignment9\assignment8 is -  assignment8_5.py
